@@ -66,7 +66,7 @@ The dataset contains the following columns:
 ## 📷 Dashboard Preview
 
 
-![Dashboard Preview](Snapshotofdashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## 📚 Learning Outcomes
 - Data visualization using Excel
