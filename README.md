@@ -64,7 +64,9 @@ The dataset contains the following columns:
 - Product-level analysis helps identify top items
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
+
+
+![Dashboard Preview](Snapshotofdashboard.png)
 
 ## 📚 Learning Outcomes
 - Data visualization using Excel
